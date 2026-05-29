@@ -57,10 +57,6 @@ var eithan = new Developer
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET"/>
-<br>.NET 8
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
 <br>SQL Server
 </td>
 <td align="center" width="96">
