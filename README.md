@@ -1,13 +1,74 @@
 <div align="center">
 
-## 💻 Eithan L. Read
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,50:1B5EA7,100:2478C8&height=200&section=header&text=Eithan%20L.%20Read&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20C%23%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20SQL%20Server&descSize=17&descColor=BDD8F5&descAlignY=65&animation=fadeIn" width="100%"/>
 
-Backend developer focused on **scalable architecture** and **real-world system design.**
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eithan-r)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eithanread1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eithan22)
 [![Open to Work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-2ea44f?style=for-the-badge)](https://linkedin.com/in/eithan-r)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Backend developer focused on **scalable architecture** and **real-world system design.***
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```csharp
+var eithan = new Developer
+{
+    Name        = "Eithan L. Read",
+    Location    = "Santo Domingo, Dominican Republic 🇩🇴",
+    Stack       = new[] { "C#", "ASP.NET Core", ".NET 8", "SQL Server", "EF Core" },
+    Architecture = new[] { "Clean Architecture", "SOLID", "Repository Pattern" },
+    Focus       = "Backend Development · REST APIs · Relational Databases",
+    Education   = "Software Development — ITLA (2024–2026)",
+    Tools       = new[] { "Git", "GitHub", "Azure DevOps", "Jira", "Swagger" },
+    OpenToWork  = true
+};
+```
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### Backend
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/eithan22)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/eithan22)
+[![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/eithan22)
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/eithan22)
+[![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/eithan22)
+
+### Databases
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/eithan22)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/eithan22)
+
+### Frontend (complementary)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/eithan22)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/eithan22)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/eithan22)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/eithan22)
+
+### Tools & Workflow
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/eithan22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eithan22)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/eithan22)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/eithan22)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://github.com/eithan22)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/eithan22)
 
 </div>
 
@@ -29,45 +90,6 @@ Backend developer focused on **scalable architecture** and **real-world system d
 
 ---
 
-## 🧑‍💻 About Me
-
-- Backend-focused developer specializing in **C# and the .NET ecosystem**
-- Experienced with **Clean Architecture, SOLID principles and layered design**
-- Comfortable working with **REST APIs, Entity Framework Core and JWT Authentication**
-- Familiar with professional tooling: **Git, Azure DevOps, Jira and Swagger**
-- Currently studying Software Development at **ITLA** — Santo Domingo, Dominican Republic 🇩🇴
-- Available for **remote (LATAM)** and on-site positions
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,postman,html,css,js,bootstrap&theme=dark&perline=6" />
-
-</div>
-
----
-
-## 💡 About Me (code)
-
-```csharp
-var eithan = new Developer
-{
-    Name         = "Eithan L. Read",
-    Location     = "Santo Domingo, Dominican Republic 🇩🇴",
-    Stack        = new[] { "C#", "ASP.NET Core", ".NET 8", "SQL Server", "EF Core" },
-    Architecture = new[] { "Clean Architecture", "SOLID", "Repository Pattern" },
-    Focus        = "Backend Development · REST APIs · Relational Databases",
-    Education    = "Software Development — ITLA (2024–2026)",
-    Tools        = new[] { "Git", "GitHub", "Azure DevOps", "Jira", "Swagger" },
-    OpenToWork   = true
-};
-```
-
----
-
 ## 📫 Contact
 
 > Interested in my profile? Feel free to reach out — I'm actively looking for my first professional role.
@@ -83,5 +105,7 @@ var eithan = new Developer
 ---
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2478C8,100:0D1F3C&height=100&section=footer" width="100%"/>
+
 </div>
