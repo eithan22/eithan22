@@ -25,23 +25,15 @@
 
 ## 🧑‍💻 About Me
 
-```csharp
-var eithan = new Developer
-{
-    Name        = "Eithan L. Read",
-    Location    = "Santo Domingo, Dominican Republic 🇩🇴",
-    Stack       = new[] { "C#", "ASP.NET Core", ".NET 8", "SQL Server", "EF Core" },
-    Architecture = new[] { "Clean Architecture", "SOLID", "Repository Pattern" },
-    Focus       = "Backend Development · REST APIs · Relational Databases",
-    Education   = "Software Development — ITLA (2024–2026)",
-    Tools       = new[] { "Git", "GitHub", "Azure DevOps", "Jira", "Swagger" },
-    OpenToWork  = true
-};
-```
+I'm a Backend Developer from Santo Domingo, Dominican Republic 🇩🇴, specializing in **C# and the .NET ecosystem**. I build REST APIs with **ASP.NET Core**, design relational databases with **SQL Server**, and apply **Clean Architecture and SOLID principles** to write maintainable, scalable code.
+
+I work with professional tools like **Git, GitHub, Azure DevOps and Jira**, and I'm currently studying Software Development at **ITLA**. I'm actively looking for my first professional role where I can contribute quality code and keep growing as an engineer.
 
 ---
 
 ## ⚙️ Tech Stack
+
+### 🔷 Backend
 
 <div align="center">
 
@@ -49,49 +41,96 @@ var eithan = new Developer
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
-<br>C#
+<br><b>C#</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET Core"/>
-<br>ASP.NET Core
+<br><b>ASP.NET Core</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET"/>
-<br>SQL Server
+<br><b>.NET</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
+<br><b>SQL Server</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-<br>HTML5
+<br><b>MySQL</b>
 </td>
 </tr>
+</table>
+
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-<br>CSS3
+<br><b>CSS3</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-<br>JavaScript
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<br><b>React</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
-<br>Bootstrap
+<br><b>Bootstrap</b>
 </td>
+</tr>
+</table>
+
+</div>
+
+### 🛠️ Tools & Workflow
+
+<div align="center">
+
+<table>
+<tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<br>Git
+<br><b>Git</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-<br>GitHub
+<br><b>GitHub</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure DevOps"/>
-<br>Azure DevOps
+<br><b>Azure DevOps</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira"/>
+<br><b>Jira</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio"/>
+<br><b>Visual Studio</b>
 </td>
 </tr>
 </table>
