@@ -33,10 +33,6 @@ and apply **Clean Architecture** and **SOLID principles** to write maintainable,
 - 🎓 &nbsp;Studying **Software Development at ITLA**
 - 🔭 &nbsp;Building **REST APIs and database-driven systems**
 - 🌱 &nbsp;Deepening my knowledge in **Clean Architecture & API Security**
-- 🎯 &nbsp;Goal: Land my **first professional role as a .NET Backend Engineer**
-- 💼 &nbsp;Open to **junior roles, freelance projects & collaborations**
-- ⚡ &nbsp;I ship software under the brand **EITHAN** — because ownership matters
-
 ---
 
 ## 🛠️ Tech Stack
