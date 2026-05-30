@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eithan22&color=4A9EFF&style=flat-square&label=Profile+Views" />
-  <a href="https://github.com/Eithan22">
-    <img src="https://img.shields.io/github/followers/Eithan22?style=flat-square&color=4A9EFF&labelColor=0d1117&label=Followers" />
-  </a>
-</p>
-
 ---
 
 ## 🌠 About Me
@@ -101,13 +94,13 @@ public class Eithan : SoftwareDeveloper
 
 <p>
   <a href="mailto:eithanread1@gmail.com">
-    <img src="https://img.shields.io/badge/eithanread1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/eithan-r">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Eithan22">
-    <img src="https://img.shields.io/badge/@Eithan22-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
