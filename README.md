@@ -60,36 +60,6 @@ public class Eithan : SoftwareDeveloper
 
 ---
 
-## 🚀 Popular Repositories
-
-<p>
-  <a href="https://github.com/Eithan22/ProductApp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eithan22&repo=ProductApp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Eithan22/AnalisisVentas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eithan22&repo=AnalisisVentas&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Eithan22/Sistema-de-nominas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eithan22&repo=Sistema-de-nominas&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Eithan22/Crud-Libros-">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eithan22&repo=Crud-Libros-&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eithan22&bg_color=1a1b27&color=4A9EFF&line=7B5EA7&point=4A9EFF&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 📬 Contact
 
 <p>
