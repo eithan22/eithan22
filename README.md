@@ -16,10 +16,13 @@ I'm a **Backend Developer** from Santo Domingo, Dominican Republic 🇩🇴, spe
 I'm currently studying Software Development at **ITLA**.
 
 
+
 - 🎓 &nbsp;Studying **Software Development at ITLA**
 - 🔭 &nbsp;Building **REST APIs and database-driven backend systems**
 - 🌱 &nbsp;Deep diving into **Clean Architecture, SOLID & API Security**
 - ⚡ &nbsp;I ship software under the brand **EITHAN** — because ownership matters
+
+
 
 
 ```csharp
