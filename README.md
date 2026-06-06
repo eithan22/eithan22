@@ -12,17 +12,10 @@
 
 ## 🌠 About Me
 
-I'm a **Backend Developer** from Santo Domingo, Dominican Republic 🇩🇴, specializing in **C# and the .NET ecosystem**. I build REST APIs with **ASP.NET Core**, design relational databases with **SQL Server & MySQL**, and apply **Clean Architecture** and **SOLID principles** to write maintainable, scalable code.
-I'm currently studying Software Development at **ITLA**.
+I'm a **Backend Developer** specializing in **C# and the .NET ecosystem**. I build REST APIs with **ASP.NET Core**, design relational databases with **SQL Server**, and apply **Clean Architecture** and **SOLID principles** to write maintainable, scalable code.
 
 
-
-- 🎓 &nbsp;Studying **Software Development at ITLA**
-- 🔭 &nbsp;Building **REST APIs and database-driven backend systems**
-- 🌱 &nbsp;Deep diving into **Clean Architecture, SOLID & API Security**
 - ⚡ &nbsp;I ship software under the brand **EITHAN** — because ownership matters
-
-
 
 
 ```csharp
@@ -32,8 +25,7 @@ public class Eithan : SoftwareDeveloper
     public string Location   => "Santo Domingo, Dominican Republic 🇩🇴";
     public string Education  => "Software Development @ ITLA";
     public string Focus      => "Backend · ASP.NET Core · Clean Architecture";
-    public string[] Stack    => ["C#", "ASP.NET Core", "SQL Server", "MySQL"];
-    public string Goal       => "First professional role as .NET Backend Engineer";
+    public string[] Stack    => ["C#", "ASP.NET Core", "SQL Server"];
     public bool   OpenToWork => true;
 }
 ```
